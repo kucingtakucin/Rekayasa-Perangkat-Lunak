@@ -9,6 +9,11 @@
             "email": "adam.faizal.af6@gmail.com"
         }
     ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
     "require": {},
     "require-dev": {
         "phpunit/phpunit": "^9"

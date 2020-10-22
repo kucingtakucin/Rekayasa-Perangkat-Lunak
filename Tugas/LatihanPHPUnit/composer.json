@@ -1,0 +1,16 @@
+{
+    "name": "adam/latihan-php-unit",
+    "description": "Praktikum Rekayasa Perangkat Lunak",
+    "type": "project",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Adam Arthur Faizal",
+            "email": "adam.faizal.af6@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}

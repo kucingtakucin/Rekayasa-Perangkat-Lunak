@@ -1,0 +1,16 @@
+{
+    "name": "adam/praktikum-carbon",
+    "description": "Praktikum Rekayasa Perangkat Lunak",
+    "type": "project",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Adam Arthur Faizal",
+            "email": "adam.faizal.af6@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.4",
+        "nesbot/carbon": "^2.41"
+    }
+}
